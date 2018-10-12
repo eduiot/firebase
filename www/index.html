@@ -8,5 +8,21 @@
     <body>
         <h1> Firebase </h1>
         <script type="text/javascript" src="cordova.js"></script>
+        <script>
+            document.addEventListener("deviceready",ondeviceready, false);
+            
+            function ondeviceready(){
+	        
+
+cordova.plugins.notification.local.schedule([
+    { id: 1, title: 'My first notification' },
+    { id: 2, title: 'My first notification' }
+]);
+
+
+
+            }
+
+        </script>
     </body>
 </html>
