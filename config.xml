@@ -8,7 +8,7 @@
         PhoneGap Team
     </author>
     <icon src="icon.png" />
-    <plugin name="cordova-plugin-local-notification" spec="^0.9.0-beta.2" />
+ 
     <content src="index.html" />
     <access origin="*" />
 </widget>
