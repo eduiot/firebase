@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "844564596391",
+    "firebase_url": "https://note-3633e.firebaseio.com",
+    "project_id": "note-3633e",
+    "storage_bucket": "note-3633e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844564596391:android:6aec674b4c4158d8",
+        "android_client_info": {
+          "package_name": "com.we2app.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844564596391-1c4nanks9lgc9fp8beeq5tjpk7mnvk0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBHEhP0IUNjUzVw6U3YW09CgspDHBn33s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
