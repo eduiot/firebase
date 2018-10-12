@@ -8,6 +8,7 @@
         PhoneGap Team
     </author>
     <icon src="icon.png" />
+    <plugin name="cordova-plugin-firebase" spec="^2.0.0" />
     <content src="index.html" />
     <access origin="*" />
 </widget>
